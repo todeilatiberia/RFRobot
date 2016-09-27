@@ -36,3 +36,6 @@ C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\AquaControls.A
 C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Form1.resources
 C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Properties.Resources.resources
 C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csproj.GenerateResource.Cache
+C:\Users\T440\Documents\GitHub\RFRobot\C# App\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+C:\Users\T440\Documents\GitHub\RFRobot\C# App\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\T440\Documents\GitHub\RFRobot\C# App\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
