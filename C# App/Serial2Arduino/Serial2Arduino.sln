@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial2Arduino", "Serial2Arduino\Serial2Arduino.csproj", "{AA20CD14-44F8-43C4-AF29-51B79622F81B}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{8DF49181-DEC2-4679-8A57-33B932C84B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.CD_ROM|x86.ActiveCfg = Release|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.CD_ROM|x86.Build.0 = Release|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.Debug|x86.ActiveCfg = Debug|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.Debug|x86.Build.0 = Debug|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.DVD-5|x86.ActiveCfg = Debug|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.DVD-5|x86.Build.0 = Debug|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.Release|x86.ActiveCfg = Release|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.Release|x86.Build.0 = Release|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.SingleImage|x86.ActiveCfg = Release|x86
+		{AA20CD14-44F8-43C4-AF29-51B79622F81B}.SingleImage|x86.Build.0 = Release|x86
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.CD_ROM|x86.Build.0 = CD_ROM
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.Debug|x86.ActiveCfg = DVD-5
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.Debug|x86.Build.0 = DVD-5
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.DVD-5|x86.ActiveCfg = DVD-5
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.DVD-5|x86.Build.0 = DVD-5
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.Release|x86.ActiveCfg = SingleImage
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.Release|x86.Build.0 = SingleImage
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.SingleImage|x86.ActiveCfg = SingleImage
+		{8DF49181-DEC2-4679-8A57-33B932C84B4A}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

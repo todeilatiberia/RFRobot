@@ -1,0 +1,38 @@
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\AquaControls.AquaGauge.resources
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Form1.resources
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Properties.Resources.resources
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csproj.GenerateResource.Cache
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.pdb
+C:\Users\Niculescu\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+F:\atentie\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+F:\atentie\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+F:\atentie\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\nicu\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+C:\Users\nicu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\nicu\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\nicu\Desktop\proj\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+C:\Users\nicu\Desktop\proj\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\nicu\Desktop\proj\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.pdb
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csprojResolveAssemblyReference.cache
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\AquaControls.AquaGauge.resources
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Form1.resources
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Properties.Resources.resources
+C:\Users\VIad\Desktop\desktop\proj ROBOT\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csproj.GenerateResource.Cache
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe.config
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.exe
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.pdb
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.exe
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\bin\Debug\Serial2Arduino.pdb
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csprojResolveAssemblyReference.cache
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\AquaControls.AquaGauge.resources
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Form1.resources
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.Properties.Resources.resources
+C:\Users\T440\Desktop\Serial2Arduino\Serial2Arduino\obj\x86\Debug\Serial2Arduino.csproj.GenerateResource.Cache
